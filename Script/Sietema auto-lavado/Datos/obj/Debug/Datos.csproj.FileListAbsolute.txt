@@ -1,0 +1,8 @@
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\bin\Debug\Datos.dll.config
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\bin\Debug\Entidad.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\bin\Debug\Entidad.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.pdb

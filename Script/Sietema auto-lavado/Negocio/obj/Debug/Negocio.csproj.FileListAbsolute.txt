@@ -1,0 +1,9 @@
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Negocio.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Datos.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Entidad.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Datos.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\bin\Debug\Entidad.pdb
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.dll
+D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.pdb
