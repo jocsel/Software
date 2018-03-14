@@ -274,6 +274,16 @@ namespace Presentacion
             btnmodificar.Enabled = false;
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
 
 
 
