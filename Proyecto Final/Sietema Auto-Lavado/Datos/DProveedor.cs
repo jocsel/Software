@@ -60,6 +60,8 @@ namespace Datos
                         datosproveedor.estado = null;
                     else
                         datosproveedor.estado = leer.GetString(7);
+
+                    listaProveedor.Add(datosproveedor); 
                 
                 }
                 return listaProveedor;
@@ -70,6 +72,67 @@ namespace Datos
             }
 
               
+        }
+        public void Agregar(EProveedor nuevoproveedor)
+        {
+
+            try
+            {
+                SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cnnString);
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "sp_proveedor";
+                cmd.Parameters.AddWithValue("@nombres", nuevoproveedor.nombres);
+                cmd.Parameters.AddWithValue("@apellidos", nuevoproveedor.apellidos);
+                cmd.Parameters.AddWithValue("@cedula", nuevoproveedor.cedula);
+                cmd.Parameters.AddWithValue("@telefono", nuevoproveedor.telefono);
+                cmd.Parameters.AddWithValue("@correo", nuevoproveedor.correo);
+                cmd.Parameters.AddWithValue("@direccion", nuevoproveedor.direccion);
+                cmd.Parameters.AddWithValue("@estado", nuevoproveedor.estado);
+                cmd.Parameters.Add("@i_operacion", SqlDbType.VarChar, 1).Value = "I";
+                cmd.Connection = conexion;
+                conexion.Open();
+                cmd.ExecuteNonQuery();
+                conexion.Close();
+
+
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+        }
+
+       public void Modificar(EProveedor ModificarProveedor)
+        {
+            try
+            {
+                SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cnnString);
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "sp_proveedor";
+                cmd.Parameters.AddWithValue("@idProveedor", ModificarProveedor.idProveedor);
+                cmd.Parameters.AddWithValue("@nombres", ModificarProveedor.nombres);
+                cmd.Parameters.AddWithValue("@apellidos", ModificarProveedor.apellidos);
+                cmd.Parameters.AddWithValue("@cedula", ModificarProveedor.cedula);
+                cmd.Parameters.AddWithValue("@telefono", ModificarProveedor.telefono);
+                cmd.Parameters.AddWithValue("@correo", ModificarProveedor.correo);
+                cmd.Parameters.AddWithValue("@direccion", ModificarProveedor.direccion);
+                cmd.Parameters.AddWithValue("@estado", ModificarProveedor.estado);
+                cmd.Parameters.Add("@i_operacion", SqlDbType.VarChar, 1).Value = "U";
+                cmd.Connection = conexion;
+                conexion.Open();
+                cmd.ExecuteNonQuery();
+                conexion.Close();
+
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+
         }
 
 

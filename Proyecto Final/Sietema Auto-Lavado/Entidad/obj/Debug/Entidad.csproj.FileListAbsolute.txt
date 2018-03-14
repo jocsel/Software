@@ -8,3 +8,8 @@ F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Entidad\bin\Debug\E
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Entidad\obj\Debug\Entidad.dll
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Entidad\obj\Debug\Entidad.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Entidad\bin\Debug\Entidad.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Entidad\bin\Debug\Entidad.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Entidad\obj\Debug\Entidad.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Entidad\obj\Debug\Entidad.pdb

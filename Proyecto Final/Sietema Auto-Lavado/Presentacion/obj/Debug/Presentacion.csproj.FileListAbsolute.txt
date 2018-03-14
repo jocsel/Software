@@ -17,3 +17,21 @@ D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-la
 C:\Users\Laboratorio 1 - PC01\Desktop\Software-master\Script\Sietema auto-lavado\Presentacion\bin\Debug\Presentacion.exe.config
 C:\Users\Laboratorio 1 - PC01\Desktop\Software-master\Script\Sietema auto-lavado\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Laboratorio 1 - PC01\Desktop\Software-master\Script\Sietema auto-lavado\Presentacion\obj\Debug\Presentacion.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Presentacion.exe.config
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.exe
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Presentacion.exe
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Presentacion.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Datos.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Entidad.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Negocio.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Datos.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Entidad.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Negocio.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache

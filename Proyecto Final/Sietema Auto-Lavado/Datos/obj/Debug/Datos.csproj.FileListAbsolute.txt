@@ -14,3 +14,11 @@ F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Datos\bin\Debug\Ent
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.dll
 F:\NI10A\Software\Software-master\Script\Sietema auto-lavado\Datos\obj\Debug\Datos.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\bin\Debug\Datos.dll.config
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\bin\Debug\Datos.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\bin\Debug\Datos.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\bin\Debug\Entidad.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\bin\Debug\Entidad.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\obj\Debug\Datos.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Datos\obj\Debug\Datos.pdb

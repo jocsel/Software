@@ -7,3 +7,12 @@ D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-la
 D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.dll
 D:\10mo Cuatrimestres\Ingenieria de software\DbAutoLavado\Script\Sietema auto-lavado\Negocio\obj\Debug\Negocio.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Negocio.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Negocio.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Datos.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Entidad.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Datos.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\bin\Debug\Entidad.pdb
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\obj\Debug\Negocio.dll
+F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Negocio\obj\Debug\Negocio.pdb
