@@ -40,6 +40,7 @@ create table empleado
 	apellidos nvarchar(120) not null,
 	nombres nvarchar(80) not null,
 	salario money not null,
+	cargo nvarchar(50),
 	estado nvarchar(10) not null -----------
 )
 go

@@ -35,3 +35,6 @@ F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debu
 F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.frmProveedor.resources
 F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
 F:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\bin\Debug\Presentacion.exe.config
+E:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.exe
+E:\PortableGit\Software\Proyecto Final\Sietema Auto-Lavado\Presentacion\obj\Debug\Presentacion.pdb
